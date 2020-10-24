@@ -4,8 +4,8 @@ from http.client import responses
 import datetime
 import json
 
-YATOKEN = 'AgAAAAA9YCnoAADLW15k37QEqkRTsUVyIhGXnHk'
-VKTOKEN = 'd976ea47e51a03edcc8b52b0cb29be635356e3dc539662fcffd3f1e012c47dbda85eee13364f4c191403e'
+YATOKEN = ''
+VKTOKEN = ''
 
 
 class UsersVK:
